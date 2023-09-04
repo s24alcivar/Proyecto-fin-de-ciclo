@@ -24,7 +24,7 @@ public class ClienteBeans {
     public void setId_Cliente(int Id_Cliente) {
         this.Id_Cliente = Id_Cliente;
     }
-//
+
     public void setNombres(String Nombres) {
         this.Nombres = Nombres;
     }
